@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSegura", "WebApiSegura\WebApiSegura.csproj", "{1FED1925-46DD-4558-93BA-A5DC21E74B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FED1925-46DD-4558-93BA-A5DC21E74B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FED1925-46DD-4558-93BA-A5DC21E74B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FED1925-46DD-4558-93BA-A5DC21E74B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FED1925-46DD-4558-93BA-A5DC21E74B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D033A4B-1C61-4112-A52C-608122511C8A}
+	EndGlobalSection
+EndGlobal
